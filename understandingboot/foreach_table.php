@@ -104,6 +104,8 @@ $places= array(
 <div class="container">
     <div class="row">
         <div class="col-md-12">
+            <center><h3 style="color: maroon"><u>table</u></h3></center>
+
 
             <table class="table table-bordered">
                 <tr>

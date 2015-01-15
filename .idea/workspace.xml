@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3804e76d-b36a-4ba9-bb63-dd975555054b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/understandingboot/class_check.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/understandingboot/foreach_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/understandingboot/foreachloop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/understandingboot/place_table.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/understandingboot/image/flowers.jpg" afterPath="$PROJECT_DIR$/understandingboot/image/flowers.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/understandingboot/pink_rose.jpeg" afterPath="$PROJECT_DIR$/understandingboot/pink_rose.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/understandingboot/colaps_artical.html" afterPath="$PROJECT_DIR$/understandingboot/colaps_artical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/understandingboot/forjava.html" afterPath="$PROJECT_DIR$/understandingboot/forjava.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/understandingboot/forslider.html" afterPath="$PROJECT_DIR$/understandingboot/forslider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/understandingboot/foreach_table.php" afterPath="$PROJECT_DIR$/understandingboot/foreach_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allPage/gallary_page.html" afterPath="$PROJECT_DIR$/allPage/gallary_page.html" />
     </list>
     <ignored path="htmlForClass.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,42 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="class1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/understandingboot/class1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1365">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colaps_artical.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/understandingboot/colaps_artical.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.416667" vertical-offset="236" max-vertical-offset="1095">
-              <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login_page1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/allPage/login_page1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.541667" vertical-offset="2258" max-vertical-offset="2970">
-              <caret line="169" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="192" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="aboutus_page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/allPage/aboutus_page.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,21 +38,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class_check.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/understandingboot/class_check.php">
+      <file leaf-file-name="foreach_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/understandingboot/foreach_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.27451" vertical-offset="1522" max-vertical-offset="2085">
-              <caret line="116" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.833333" vertical-offset="1330" max-vertical-offset="2415">
+              <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#center#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_page1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/allPage/login_page1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.40789473" vertical-offset="2258" max-vertical-offset="2970">
+              <caret line="165" column="68" selection-start-line="165" selection-start-column="68" selection-end-line="165" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="foreach_table.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/understandingboot/foreach_table.php">
+      <file leaf-file-name="gallary_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/allPage/gallary_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0183486" vertical-offset="1440" max-vertical-offset="2385">
-              <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state vertical-scroll-proportion="-8.75" vertical-offset="945" max-vertical-offset="2790">
+              <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/allPage/login_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="1035">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/allPage/contact_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.75" vertical-offset="90" max-vertical-offset="2670">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/understandingboot/place_table.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1575">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,29 +106,6 @@
             <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="375">
               <caret line="11" column="3" selection-start-line="10" selection-start-column="0" selection-end-line="17" selection-end-column="2" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fordropdown1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/understandingboot/fordropdown1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="960">
-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="morecss.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/understandingboot/morecss.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="885">
-              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -175,6 +140,7 @@
         <option value="$PROJECT_DIR$/understandingboot/foreachloop.php" />
         <option value="$PROJECT_DIR$/understandingboot/class_check.php" />
         <option value="$PROJECT_DIR$/understandingboot/place_table.html" />
+        <option value="$PROJECT_DIR$/allPage/gallary_page.html" />
         <option value="$PROJECT_DIR$/understandingboot/foreach_table.php" />
       </list>
     </option>
@@ -366,27 +332,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/all5exercise/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="720">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all5exercise/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="390">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all5exercise/chk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="330">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/all5exercise/chk1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
@@ -726,26 +671,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/understandingboot/place_table.html">
+    <entry file="file://$PROJECT_DIR$/allPage/gallary_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1575">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state vertical-scroll-proportion="-8.75" vertical-offset="945" max-vertical-offset="2790">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allPage/login_page1.html">
+    <entry file="file://$PROJECT_DIR$/allPage/login_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.541667" vertical-offset="2258" max-vertical-offset="2970">
-          <caret line="169" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="192" selection-end-column="7" />
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="1035">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allPage/contact_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.75" vertical-offset="90" max-vertical-offset="2670">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/understandingboot/place_table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="1575">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/understandingboot/foreach_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0183486" vertical-offset="1440" max-vertical-offset="2385">
-          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.833333" vertical-offset="1330" max-vertical-offset="2415">
+          <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#center#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allPage/login_page1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40789473" vertical-offset="2258" max-vertical-offset="2970">
+          <caret line="165" column="68" selection-start-line="165" selection-start-column="68" selection-end-line="165" selection-end-column="68" />
           <folding />
         </state>
       </provider>
